@@ -1,7 +1,7 @@
 # Forkify Recipes app
 > A simple app to search & bookmark cooking recipes
 
-> Live demo [_here_]([https://focused-booth-5edd23.netlify.app/public/](https://deluxe-pavlova-b80916.netlify.app/).
+> Live demo [_here_](https://focused-booth-5edd23.netlify.app/public/](https://deluxe-pavlova-b80916.netlify.app/).
 
 ## Table of Contents
 
